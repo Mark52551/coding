@@ -1,0 +1,15 @@
+#This file is going to be a basis of what I know of programming
+#This will have a lot of random text parts, as this is just a preview for anyone who wants to know the level of proficiency in coding
+
+#Variables
+#Here I will code using variables
+
+x_first= ("Hello, my name is Mark")
+print (x_first)
+
+#printing specific values located in the variables
+print (x_first[:8])
+>>>"Hello, m"
+# " " "
+print (x_first[2:10])
+>>>"llo, my"
